@@ -1,5 +1,5 @@
 -  Hi, I’m @Krinski-Moreira, a master's astronomy student at University of São Paulo
--  I’m interested in astronomy, data science, machine learning and astrophotography
+-  I’m interested in extragalactic astronomy, data science, machine learning and astrophotography
 -  I’m currently making a site to host all gravitational lenses data
 -  I’m looking to collaborate on gravitational lenses research
 -  Reach me by emailing to otavioskrinskim@usp.br
